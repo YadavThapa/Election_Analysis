@@ -1,5 +1,5 @@
 # Election_Analysis
-Data Analysis for Election Poll
+
 ## Overview of the Election Audit
 The Colorado Board of Election Comission requested Tom and Seth to perform the Election Audit result. Election comission had shared the election result in csv file format to Tom and Seth. Tom and Seth tried to get the final desired output using the python script.
 
