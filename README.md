@@ -23,10 +23,10 @@ From the election result audit, we came to conclusion that
 
 ## Election Audit Summary
 Python is very intereactive language and it could help the Data Analytics process of Election Audit result. It is very easy to use. We can get the desired output. This script can be used to analyse the other election in future by modifying it.
-a. Creating new list
-b. Creating new dictionary
-c. Adding new list using append properties
-d. Using for loop feature to make addional control statement
+1. Creating new list
+2. Creating new dictionary.
+3. Adding new list using append properties
+4. Using for loop feature to make addional control statement
 
 ### Challenges and difficulties
 Although it is very easy to use, Python is more prone to getting an error or misleading result due to it indentation feature. User should be very careful with indendation properties.
