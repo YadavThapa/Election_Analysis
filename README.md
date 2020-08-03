@@ -22,4 +22,11 @@ From the election result audit, we came to conclusion that
 6. Charles Casper Stockham got the 85,213 number of votes and it is 23.0% of total votes casted.
 
 ## Election Audit Summary
-Python is very intereactive language and it could help the Data Analytics process of Election Audit result. It is very easy to use. We can get the desired output.
+Python is very intereactive language and it could help the Data Analytics process of Election Audit result. It is very easy to use. We can get the desired output. This script can be used to analyse the other election in future by modifying it.
+a. Creating new list
+b. Creating new dictionary
+c. Adding new list using append properties
+d. Using for loop feature to make addional control statement
+
+### Challenges and difficulties
+Although it is very easy to use, Python is more prone to getting an error or misleading result due to it indentation feature. User should be very careful with indendation properties.
