@@ -10,7 +10,7 @@ The main objective of this Election Audit result is to help Election comission b
 ![]https://github.com/YadavThapa/Election_Analysis/blob/master/Final%20Delivery.PNG
 From the election result audit, we came to conclusion that 
 
-**The total number of vote casted was 369,711. **
+**The total number of vote casted was 369,711.**
 
 **The maximum number of vote casted in Denver County with 306,055 and it is 82.8 % of total .**
 
